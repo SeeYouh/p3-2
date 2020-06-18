@@ -1,7 +1,7 @@
 {
   "name": "projetp3",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "Projet P3 -- version 2",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch ./sass/__main.scss:./css/style.css --style expanded",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeeYouh/projetp3.git"
+    "url": "git+https://github.com/SeeYouh/p3-2.git"
   },
   "author": "",
   "license": "ISC",
   "browserslist": "last 4 versions",
   "bugs": {
-    "url": "https://github.com/SeeYouh/projetp3/issues"
+    "url": "https://github.com/SeeYouh/p3-2/issues"
   },
-  "homepage": "https://github.com/SeeYouh/projetp3#readme"
+  "homepage": "https://github.com/SeeYouh/p3-2#readme"
 }
