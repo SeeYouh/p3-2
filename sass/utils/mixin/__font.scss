@@ -1,0 +1,9 @@
+@mixin font-secondaire {
+    font-family: map-get($font-family, 'footer');
+    font-size:   map-get($font-size, 'footer');
+}
+
+@mixin font-primary {
+    font-family: map-get($font-family, 'heading');
+    font-size: map-get($font-size , 'heading');
+}

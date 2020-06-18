@@ -1,0 +1,21 @@
+{
+  "name": "projetp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/__main.scss:./css/style.css --style expanded",
+    "prefix": "postcss ./css/style.css --use autoprefixer -d ./css/prefixed/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeeYouh/projetp3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/SeeYouh/projetp3/issues"
+  },
+  "homepage": "https://github.com/SeeYouh/projetp3#readme"
+}
